@@ -1,0 +1,63 @@
+/* Google Fonts CDN */ 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
+* {
+    font-family: 'Poppins', sans-serif;
+  }
+.mt-100 {
+    margin-top: 100px;
+  }
+
+  /* header  */
+header {
+    background-color: #264653;
+  }
+ul.navbar-nav li {
+    margin-left: 30px;
+  }
+.login {
+    background-color: #e76f51;
+  }
+
+  /* feture section grayscale design */
+.feture img.grayscale {
+    filter: grayscale(90%);
+  }
+.button {
+    border: 2px solid #e76f51;
+    color: black;
+    transition: 0.4s;
+  }
+.button:hover {
+    background-color: #e76f51;
+    color: white;
+  }
+  
+  /* font awesome color  */ 
+.rating i {
+    color: #e76f51;
+  }
+
+  /* Footer  */
+footer {
+    background-color: #264653;
+  }
+footer ul li {
+    color: white;
+    padding-right: 20px;
+    cursor: pointer;
+    transition: 0.2s;
+  }
+footer ul li:hover {
+    color: #e76f51;
+  }
+  
+  /* bike search section  */ 
+.search {
+    background-image: linear-gradient(#264653, #14303b);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
