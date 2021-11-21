@@ -6,7 +6,7 @@
 
 ## About & Features
 
-**Honda CBR** is a single-page Bike shop web app.
+**Honda CBR** is a single-page Bike shop website.
 
 ### Front-end Technology : 
 - **HTMl**
